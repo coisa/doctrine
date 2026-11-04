@@ -10,9 +10,9 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/coisa/dbal/issues",
-    "source": "https://github.com/coisa/dbal",
-    "rss": "https://github.com/coisa/dbal/releases.atom"
+    "issues": "https://github.com/artificenerd/dbal/issues",
+    "source": "https://github.com/artificenerd/dbal",
+    "rss": "https://github.com/artificenerd/dbal/releases.atom"
   },
   "config": {
     "preferred-install": "dist",
